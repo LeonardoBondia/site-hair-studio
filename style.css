@@ -16,7 +16,7 @@ body {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: url('logo roxo.png') no-repeat center center fixed;
+    background: url('logos/logo\ roxo.png') no-repeat center center fixed;
     background-size: cover;
     opacity: 0.06;
     z-index: -1;
